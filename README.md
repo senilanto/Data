@@ -1,4 +1,4 @@
 Mechanical
-Civil
+Civils
 Electrical
-Computer
+Computers
