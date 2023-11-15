@@ -1,5 +1,4 @@
 Mechanical
 Civils
 Electrical
-Computerr
-
+Computer
